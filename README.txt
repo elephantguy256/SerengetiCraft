@@ -10,7 +10,7 @@ Download The Project to Contribute if you are on the AfricaCraft Team;
 
 CANNOT;
 
-Cannot Distribute this code without Permission from me or Doctor Hyena
+Cannot Distribute this code without Permission from me or DoctorHyena0914, or Crazydino1
 
 Cannot Modify This code unless you Code for this Mod or on the Team
 
