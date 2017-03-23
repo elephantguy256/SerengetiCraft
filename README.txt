@@ -12,7 +12,7 @@ CANNOT;
 
 Cannot Distribute this code without Permission from me or Doctor Hyena
 
-Cannot Modify This code
+Cannot Modify This code unless you Code for this Mod or on the Team
 
 and most of all
 
