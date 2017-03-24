@@ -70,4 +70,4 @@ OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 * - "Minecraft" is a trademark of Mojang Synergies AB.
 
-All Models, Textures, and Assets belong to the AfricaCraft and the AfricaCraft Name are all Protected under this Copyright!
+All Models, Textures, and Assets belong to the AfricaCraft Modding Team and the AfricaCraft Name are all Protected under this Copyright!
