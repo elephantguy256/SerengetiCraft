@@ -69,3 +69,5 @@ LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
 OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 * - "Minecraft" is a trademark of Mojang Synergies AB.
+
+All Models, Textures, and Assets belong to the AfricaCraft and the AfricaCraft Name are all Protected under this Copyright!
