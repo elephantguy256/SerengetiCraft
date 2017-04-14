@@ -1,15 +1,16 @@
 [
 {
-  "modid": "mcanm",
-  "name": "${longname}",
-  "description": "Developed by WorldSEnder during the making of the Monster Hunter Frontier Craft mod to serve as a basis for animated models.",
+  //Still working on this waiting to get more info -MrModder1234
+  "modid": "acCraft",
+  "name": "Africa Craft",
+  "description": "Developed by Scorpio_Cruz and MrModder1234",
   "logoFile": "logo.png",
   "version": "${version}",
   "mcversion": "${minecraft.version}",
-  "url": "http://github.com/WorldSEnder/MCAnm",
+  "url": "http://github.com/lukamas2/SerengetiCraft",
   "updateUrl": "",
-  "authors": ["WorldSEnder"],
-  "credits": "Blender Foundation, ZeuX",
+  "authors": ["Scorpio_Cruz, MrModder1234"],
+  "credits": "lukamas2 = Lead Modeller, Novacraft = Modeller",
   "parent": "",
   "screenshots": [],
   "dependencies": []
