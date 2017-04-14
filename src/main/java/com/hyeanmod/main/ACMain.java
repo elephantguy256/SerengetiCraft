@@ -29,7 +29,7 @@ public class ACMain {
             }
         };
 
-    	@SidedProxy(clientSide="com.hyeanmod.main.ClientProxy", serverSide="com.hyeanmod.main.CommonProxy")
+    	@SidedProxy(clientSide="com.hyeanmod.main.ClientProxy", serverSide="com.hyeanmod.main.ServerProxy")
         public static CommonProxy proxy;
 
         @Mod.Instance
