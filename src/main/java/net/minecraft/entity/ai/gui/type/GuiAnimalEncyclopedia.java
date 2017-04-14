@@ -3,7 +3,7 @@ package net.minecraft.entity.ai.gui.type;
 import org.lwjgl.input.Keyboard;
 import org.lwjgl.opengl.GL11;
 
-import com.hyeanmod.main.ACMain;
+import com.africacraft.main.ACMain;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.GuiButton;

@@ -1,5 +1,5 @@
 /*    */ package net.minecraft.entity.ai.gui;
-import com.hyeanmod.main.ACMain;
+import com.africacraft.main.ACMain;
 
 import net.minecraft.entity.ai.gui.type.GuiAnimalEncyclopedia;
 /*    */ 
