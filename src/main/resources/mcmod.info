@@ -1,7 +1,7 @@
 [
 {
   //Still working on this waiting to get more info -MrModder1234
-  "modid": "acCraft",
+  "modid": "africacraft",
   "name": "Africa Craft",
   "description": "Developed by Scorpio_Cruz and MrModder1234",
   "logoFile": "logo.png",
@@ -10,7 +10,7 @@
   "url": "http://github.com/lukamas2/SerengetiCraft",
   "updateUrl": "",
   "authors": ["Scorpio_Cruz, MrModder1234"],
-  "credits": "lukamas2 = Lead Modeller, Novacraft = Modeller",
+  "credits": "lukamas2 = Lead Modeller, Novacraft = Modeller, Doctor Hyena = Creator, Modded T = Texturer",
   "parent": "",
   "screenshots": [],
   "dependencies": []
