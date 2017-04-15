@@ -23,7 +23,7 @@ public class ACMain {
         public static final String MODNAME = "AfricaCraft, an African Safari Experience";
         public static final String MODVERSION = "1.0.0";
 
-        public static final CreativeTabs AfricaCraft_Items = new CreativeTabs("AfricaCraft_Items") {
+        public static final CreativeTabs AfricaCraft_Items = new CreativeTabs("AfricaCraft") {
             @Override public Item getTabIconItem() {
                 return ModItems.redstarpickaxe;
             }
