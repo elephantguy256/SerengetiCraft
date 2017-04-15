@@ -16,7 +16,7 @@ public class RenderBlackLeopard extends RenderLiving<EntityBlackLeopard> {
 		// TODO Auto-generated constructor stub
 	}
 
-	private ResourceLocation mobTexture = new ResourceLocation("wildanimals:textures/entity/bigcat/blackleopard.png");
+	private ResourceLocation mobTexture = new ResourceLocation("africacraft:textures/entity/bigcat/blackleopard.png");
 
 
     public void doRender(EntityBlackLeopard entity, double x, double y, double z, float entityYaw, float partialTicks)
