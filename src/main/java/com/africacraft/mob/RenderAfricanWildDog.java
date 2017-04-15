@@ -8,7 +8,7 @@ import net.minecraft.util.ResourceLocation;
 
 public class RenderAfricanWildDog extends RenderLiving<EntityAfricanWildDog>{
 	
-    private ResourceLocation mobTexture = new ResourceLocation("wildanimals:textures/entity/hyena/africanwilddog.png");
+    private ResourceLocation mobTexture = new ResourceLocation("africacraft:textures/entity/hyena/africanwilddog.png");
     
 	public RenderAfricanWildDog(RenderManager rendermanagerIn, ModelBase modelbaseIn, float shadowsizeIn) {
 		super(rendermanagerIn, modelbaseIn, shadowsizeIn);
