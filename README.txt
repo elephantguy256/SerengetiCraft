@@ -32,6 +32,8 @@ In order for this mod to be a reality, we need Coders, Modelers and Textures!
 
 Current Team:
 doctor hyena 0914 ---creator, modeller and texturer
+MrModder1234 ---Lead Developer
+Scorpio_Cruz ---Lead Developer
 lukamas233 ---modeller and texturer
 crazydino1 ---modeller and texturer
 taylorp16 ---texturer
