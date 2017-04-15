@@ -1,2 +1,27 @@
+//Other
 itemGroup.AfricaCraft=Africa Craft Mod
-entity
+item.redstarpickaxe.name=Animal Encyclopedia
+
+//Entities
+
+//Prey
+entity.africacraft.wildebeest.name=Wildebeest
+entity.africacraft.gemsbok.name=Gemsbock
+entity.africacraft.thomsonsgazelle.name=Thomson's Gazelle
+entity.africacraft.savannaZebra.name=Savanna Zebra
+entity.africacraft.commonEland.name=Common Eland
+entity.africacraft.honeyBadger.name=Honey Badger
+//Hunters
+entity.africacraft.africanWildDog.name=African Wild Dog
+entity.africacraft.africanlionFemale.name=African Lioness
+entity.africacraft.africanLionMale.name=African Lion
+entity.africacraft.spottedHyena.name=Spotted Hyena
+entity.africacraft.africanLeopard.name=African Leopard
+entity.africacraft.blackLeopard.name=Black Leopard
+//Large Animals
+entity.africacraft.masaiGiraffe.name=Masai Giraffe
+entity.africacraft.reticulatedGiraffe.name=Reticulated Giraffe
+entity.africacraft.rothschildGiraffe.name=Rothschild Giraffe
+entity.africacraft.africanElephant.name=African Elephant
+entity.africacraft.hippopotamus.name=Hippopotamus
+
