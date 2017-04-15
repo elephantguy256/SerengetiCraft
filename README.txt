@@ -44,7 +44,7 @@ ________________________________________________________________________________
 License Information Follows
 ---------------------------
 Copyright (c) 2017, AfricaCraft, a Minecraft* Modding Team 
-(doctorhyena0914, Lukamas233, crazydino1, taylorp16, Scorpio_Cruz, XavierDD1st.) All rights reserved.
+(doctorhyena0914, Lukamas233, crazydino1, taylorp16, Scorpio_Cruz, XavierDD1st, MrModder1234.) All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification, 
 are permitted provided that the following conditions are met:
