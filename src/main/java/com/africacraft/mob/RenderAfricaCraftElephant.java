@@ -8,7 +8,7 @@ import net.minecraft.util.ResourceLocation;
 
 public class RenderAfricaCraftElephant extends RenderLiving<EntityAfricaCraftElephant>{
 	
-    private ResourceLocation mobTexture = new ResourceLocation("wildanimals:textures/entity/elephant/africanelephant.png");
+    private ResourceLocation mobTexture = new ResourceLocation("africacraft:textures/entity/elephant/africanelephant.png");
     
 	public RenderAfricaCraftElephant(RenderManager rendermanagerIn, ModelBase modelbaseIn, float shadowsizeIn) {
 		super(rendermanagerIn, modelbaseIn, shadowsizeIn);
