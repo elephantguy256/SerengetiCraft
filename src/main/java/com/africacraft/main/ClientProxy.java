@@ -74,6 +74,7 @@ public class ClientProxy extends CommonProxy{
     public void registerRenders() 
     {
         // the float parameter passed to the Render class is the shadow size for the entity
+	//The code below is deprecated, don't have time rn, but it needs to be changed to IRenderFactory instead of RenderingRegistery
         RenderManager renderManager = Minecraft.getMinecraft().getRenderManager();
         // RenderingRegistry.registerEntityRenderingHandler(EntityGoldenGoose.class, new RenderGoldenGoose(renderManager, new ModelGoldenGoose(), 0.5F)); // 0.5F is shadow size 
     	RenderingRegistry.registerEntityRenderingHandler(EntitySpottedHyena.class, new RenderSpottedHyena(renderManager, new ModelSpottedHyena(), 0.5F));
